@@ -12,7 +12,7 @@
     "@types/pg": "8.10.9",
     "@typescript-eslint/eslint-plugin": "6.19.1",
     "@typescript-eslint/parser": "6.19.1",
-    "axios": "1.4.0",
+    "axios": "1.8.2",
     "cdk": "2.82.0",
     "dotenv-cli": "7.3.0",
     "esbuild": "0.18.6",
